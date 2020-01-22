@@ -24,7 +24,7 @@
         android:id="@+id/placeholder_textview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        style="@android:style/TextAppearance.Material.Widget.ActionBar.Title" />
+        style="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title" />
 
 </FrameLayout>
 
